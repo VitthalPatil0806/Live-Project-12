@@ -1,0 +1,294 @@
+img[src="pexels-fauxels-3183197.jpg"]{
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+}
+.navi-section{
+    background-color: #808080;
+    padding-bottom: 200px;
+}
+img[src="white-logo.png"]{
+    margin-left: 30px;
+    margin-top: -560px;
+    margin-bottom: 450px;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 500px;
+    margin-right: 160px;
+    margin-top: -520px;
+    margin-bottom: 100px;
+    font-weight: 900;
+    color: #ffffff;
+}
+.click{
+    margin-bottom: 200px;
+    margin-top: -580px;
+    margin-left: 1300px;
+    margin-right: 0px;
+    height: -10px;
+    background-color: #808080;
+    border-color: 1px #ffffff;
+}
+h1{
+    margin-left: 700px;
+    margin-right: 250px;
+    margin-top: -100px;
+    margin-bottom: 100px;
+    font-size:55px;
+    font-family: sans-serif;
+}
+.content{
+    margin-left: 700px;
+    margin-right: 300px;
+    margin-top: -70px;
+    font-size: 17px;
+}
+.email{
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: px;
+    border-color: 1px ;
+    background-color: #ffffff;
+    margin-left: 700px;
+    margin-top: 60px;
+    width: 420px;
+    height: 40px;
+}
+.talk{
+    margin-left: 50px;
+    margin-top: -40px;
+    margin-bottom: -43px;
+}
+.talk1{
+    height: 40px;
+    width: 110px;
+    margin-left: 320px;
+    font-weight: 800;
+    background-color: #81e08b;
+    color: #ffffff;
+}
+img[src="email.svg"]{
+    width: 30px;
+}
+button{
+    border-color:  #ffffff;
+    color: #ffffff;
+    height: 23px;
+    width: 110px;
+    background-color: transparent;
+}
+.button2{
+    background-color: #81e08b;
+    height: 35px;
+    margin-left: -1000px;
+    width: 140px;
+    margin-bottom: 180px;
+    margin-top: -230px;
+}
+.button3{
+    background-color: #81e08b;
+    height: 35px;
+    width: 140px;
+    margin-top: -200px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+.button4{
+    background-color: #81e08b;
+    height: 35px;
+    width: 140px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.button5{
+    background-color: #81e08b;
+    height: 35px;
+    width: 140px;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+img[src="pexels-fauxels-3184325.jpg"]{
+    width: 1060px;
+    height: 480px;
+    margin-left: 170px;
+}
+.mid1{
+    font-size: 55px;
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-bottom: 40px;
+    margin-right: 260px;
+    font-family: sans-serif;
+}
+.mid2{
+    margin-top: 50px;
+    margin-right: 370px;
+    margin-left: 460px;
+}
+.mid3{
+    font-size: 45px;
+    margin-left: 200px;
+    margin-right: 580px;
+}
+.mid4{
+    font-size: 45px;
+    margin-right: 50px;
+    margin-top: -50px;
+    margin-bottom: -30px;
+    margin-left: 780px;
+}
+.mid5{
+    font-size: 45px;
+    margin-top: -350px;
+    margin-left: 200px;   
+    margin-right: 630px;
+}
+.mid6{
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 700px;
+    font-size: 45px;
+}
+span{
+    margin-left: 150px;
+}
+.rate{
+    font-size: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.description1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 140px;
+    margin-right: 100px;
+    margin-top: -70px;
+    font-size: 18px;
+}
+.description2{
+    margin-left: 200px;
+    margin-right: 800px;
+    margin-bottom: -490px;
+    margin-top: -30px;
+    word-spacing: 10px;
+    font-size: 18px;
+}
+.description3{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 780px;
+    margin-right: 137px;
+    margin-bottom: -180px;
+    word-spacing: 8px;
+}
+.description4{
+    font-size: 18px;
+    margin-left: 200px;
+    margin-right: 800px;
+    margin-top: -80px;
+}
+.description5{
+    font-size: 18px;
+    white-space: 8px;
+    margin-top: -200px;
+    margin-bottom: 100px;
+    margin-left: 800px;
+    margin-right: 230px;
+}
+.collect{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -30px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 110px;
+    padding-left: 100px;
+    padding-right: 190px;
+    padding-top: 100px;
+    background-color: #3f3d3d;
+    color: #ffffff;
+}
+
+.icons{
+    margin-left: 1000px;
+    margin-top: -70px;
+    margin-bottom: 30px;
+}
+.line{
+    border-bottom: 2px solid #ffffff;
+     width: 75%;
+     margin-left: 260px;
+     margin-top: -220px;
+     transform: rotate(0deg);
+     transform-origin: top left;
+}
+img[src="pexels-fauxels-3184405.jpg"]{
+    height: 400px;
+    width: 400px;
+    margin-top: 200px;
+    margin-left: 800px;
+    margin-bottom: -30px;
+}
+
+img[src="pexels-fauxels-3184603.jpg"]{
+    width: 500px;
+    height: 460px;
+    margin-left: 200px;
+    margin-top: -200px;
+}
+img[src="pexels-linkedin-sales-navigator-2182969.jpg"]{
+    width: 400px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 800px;
+}
+img[src="pexels-mikhail-nilov-8937870.jpg"]{
+    width: 300px;
+    height: 350px;
+}
+img[src="pexels-precious-judah-9154594.jpg"]{
+    width: 300px;
+    height: 350px;
+}
+img[src="pexels-christina-morillo-1181424.jpg"]{
+    width: 300px;
+    height: 350px;
+}
+img[src="github.png"]{
+    width: 30px;
+    margin-right: 30px;
+}
+img[src="twitter.png"]{ 
+    width: 30px;   
+    margin-right: 30px;
+}
+img[src="instagram.png"]{
+    width: 30px;
+    margin-right: 30px;
+}
+img[src="facebook-box-line.svg"]{
+    width: 30px;
+    margin-right: 30px;
+}
+img[src="white-logo copy.png"]{
+    width: 120px;
+    height: 60px;
+    margin-top: -70px;
+    margin-left: 120px;
+    margin-right: -90px;
+}
