@@ -10,7 +10,7 @@ img[src="pexels-fauxels-3183197.jpg"]{
 }
 img[src="white-logo.png"]{
     margin-left: 30px;
-    margin-top: -560px;
+    margin-top: -500px;
     margin-bottom: 450px;
 }
 .navigation{
@@ -291,4 +291,199 @@ img[src="white-logo copy.png"]{
     margin-top: -70px;
     margin-left: 120px;
     margin-right: -90px;
+}
+@media only screen and (max-width:500px) {
+    
+.navigation{
+    margin-left: 90px;
+    margin-right: -10px;
+} 
+.click{
+    margin-left: 360px;
+    margin-top: -550px;
+} 
+.button2{
+    margin-left: 2px;
+    margin-top: 40px;
+}
+.button3{
+    margin-left: 2px;
+    margin-top: 10px;
+}
+.button4{
+    margin-top: 0px;
+    margin-left: 2px;
+}
+.button5{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+img[src="white-logo.png"]{
+    width: 80px;
+    margin-left: 5px;
+    margin-bottom: 470px;
+}  
+img[src="pexels-fauxels-3183197.jpg"]{
+    margin-left: 2px;
+    width: 480px;
+}
+img[src="pexels-fauxels-3184325.jpg"]{
+    margin-left: 2px;
+    width: 480px;
+}
+img[src="pexels-fauxels-3184405.jpg"]{
+    margin-left: 2px;
+    width: 480px;
+    margin-top: 500px;
+}
+img[src="pexels-fauxels-3184603.jpg"]{
+    margin-top: 200px;
+    margin-left: 2px;
+    width: 480px;
+}
+img[src="pexels-linkedin-sales-navigator-2182969.jpg"]{
+    width: 480px;
+    margin-left: 2px;
+    margin-top: 280px;
+}
+img[src="pexels-mikhail-nilov-8937870.jpg"]{
+    width: 480px;
+    margin-left: -200px;
+    margin-bottom: 10px;
+}
+img[src="pexels-precious-judah-9154594.jpg"]{
+    width: 480px;
+    margin-left: -200px;
+    margin-bottom: 10px;
+}
+img[src="pexels-christina-morillo-1181424.jpg"]{
+    width: 480px;
+    margin-left: -200px;
+    margin-bottom: 10px;
+}
+img[src="white-logo copy.png"]{
+    margin-left: -190px;
+}
+h1{
+    font-size: 30px;
+    margin-top: 450px;
+    margin-left: 20px;
+    margin-right: 160px;
+}
+.content{
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: -80px;
+}
+.email{
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: px;
+    border-color: 1px ;
+    background-color: #ffffff;
+    margin-left: 20px;
+    margin-top: 60px;
+    width: 380px;
+    height: 40px;
+}
+.talk{
+    margin-left: -10px;
+    margin-top: -30px;
+}
+.talk1{
+    margin-left: 290px;
+    margin-top: -3px;
+}
+.mid1{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.mid2{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-right: 70px;    
+}
+.mid3{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: -30px;
+    margin-right: 0px;
+}
+.mid4{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: -90px;
+    margin-right: 100px;
+}
+.mid5{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 90px;
+    margin-top: -650px;
+}
+.mid6{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 500px;
+}
+span{
+    margin-left: 100px;
+}
+.rate{
+    font-size: 20px;
+    margin-top: -40px;
+    margin-left: 10px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.description1{
+    margin-top: -45px;
+    margin-left: 10px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.description2{
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-top: -5px;
+}
+.description3{
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.description4{
+    margin-left: 10px;
+    margin-right: 60px;
+}
+.description5{
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: -70px;
+}
+.collect{
+    display: flex;
+    flex-direction: column;
+}
+.line{
+    margin-left: 10px;
+    width: 430px;
+    margin-top: -1200px;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+   padding-left: 200px;
+}
+.icons{
+    margin-left: 200px;
+    margin-top: -50px;
+}
 }
